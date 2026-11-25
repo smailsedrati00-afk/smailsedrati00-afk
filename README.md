@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail Sedrati</h1>
 <h3 align="center">A passionate full-stack developer from morocco</h3>
 
-- 🔭 I’m currently working on [c-style](https://c-stylee.netlify.app/)
+- 🔭 I’m currently working on [c-style]((https://ismail-sedrati-portfolio.vercel.app/))
 
 - 🌱 I’m currently learning **React, Node.js, Express.js, Firebase**
 
