@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail Sedrati</h1>
 <h3 align="center">A passionate full-stack developer from morocco</h3>
 
-- 🔭 I’m currently working on [c-style]((https://ismail-sedrati-portfolio.vercel.app/))
+- 🔭 I’m currently working on [c-style]((https://ismail-sedrati-portfol.vercioel.app/))
 
 - 🌱 I’m currently learning **React, Node.js, Express.js, Firebase**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **smailsedrati00@gmail.com**
 
-- 📄 Know about my experiences [https://sedratii.netlify.app/](https://sedratii.netlify.app/)
+- 📄 Know about my experiences [https://sedratii.netlify.app/]((https://ismail-sedrati-portfol.vercioel.app/))
 
 - ⚡ Fun fact **I love turning ideas into real web applications!**
 
